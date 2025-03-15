@@ -7,6 +7,6 @@ func main() {
 }
 
 func asd() {
-	fmt.Println("Hello Git")
+	fmt.Println(1+1)
 
 }
