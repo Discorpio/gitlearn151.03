@@ -7,6 +7,10 @@ func main() {
 }
 
 func aqw() {
+<<<<<<< HEAD
 	fmt.Println(1 + 1)
+=======
+	fmt.Println("Hello Git")
+>>>>>>> master
 
 }
