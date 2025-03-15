@@ -7,6 +7,6 @@ func main() {
 }
 
 func asd() {
-	fmt.Println(1+1)
+	fmt.Println(1 + 1)
 
 }
