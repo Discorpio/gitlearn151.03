@@ -3,10 +3,10 @@ package main
 import "fmt"
 
 func main() {
-	asd()
+	aqw()
 }
 
-func asd() {
-	fmt.Println("Hello Git")
+func aqw() {
+	fmt.Println("Git Hello")
 
 }
