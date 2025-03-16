@@ -7,6 +7,8 @@ func main() {
 }
 
 func aqw() {
+
+	fmt.Println(1 + 2)
 	fmt.Println("Hello Git")
 
 }
